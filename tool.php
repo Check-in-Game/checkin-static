@@ -15,7 +15,7 @@ $index_path = './tpl/index' . TPL_SUFFIX;
 generate($index_path);
 
 // Generate Page
-function generate(string $path) : void {
+function generate($path) {
   $file = file_get_contents($path);
   $update_time = date('Y-m-d H:i');
   $file = str_replace('__UPDATE_TIME__', $update_time, $file);
