@@ -50,6 +50,9 @@
   <section class="testimonials text-center bg-light">
     <div class="container">
       <h2 class="mb-5">更新时间 / Update Time</h2>
+      <p>
+        <img src="https://api.netlify.com/api/v1/badges/9dfdad23-edf4-4475-8b99-b3292b52c98b/deploy-status" alt="status">
+      </p>
       <h3>__UPDATE_TIME__</h3>
     </div>
   </section>
