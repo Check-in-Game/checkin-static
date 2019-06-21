@@ -98,7 +98,7 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-9 mx-auto">
-          <h2 class="mb-4">Ready to get join?</h2>
+          <h2 class="mb-4">Ready to join?</h2>
         </div>
         <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
           <a class="btn btn-outline-light" href="https://jq.qq.com/?_wv=1027&amp;k=5ax4j23" target="_blank" role="button">Click to JOIN(QQ Group)：887304185</a>
