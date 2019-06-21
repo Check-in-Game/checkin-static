@@ -1,1 +1,1 @@
-#static-checkin
+# Check-in Game Static Hosting
