@@ -1,4 +1,4 @@
 [build]
   base    = ""
-  command = "php tool.php"
+  command = ""
   publish = ""
