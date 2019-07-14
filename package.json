@@ -1,0 +1,22 @@
+{
+  "name": "static-checkin",
+  "version": "1.0.0",
+  "description": "Check-in 游戏的静态文件包",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokin1999/checkin-static.git"
+  },
+  "keywords": [
+    "check-in"
+  ],
+  "author": "jokin1999",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jokin1999/checkin-static/issues"
+  },
+  "homepage": "https://github.com/jokin1999/checkin-static#readme"
+}
