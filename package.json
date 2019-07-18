@@ -1,5 +1,5 @@
 {
-  "name": "static-checkin",
+  "name": "checkin-static",
   "version": "1.0.0",
   "description": "Check-in 游戏的静态文件包",
   "main": "index.html",
