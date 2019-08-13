@@ -1,6 +1,6 @@
 {
   "name": "checkin-static",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Check-in 游戏的静态文件包",
   "main": "index.html",
   "scripts": {
